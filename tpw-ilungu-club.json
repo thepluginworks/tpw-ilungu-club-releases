@@ -1,6 +1,6 @@
 {
-  "version": "2.13.0",
-  "download_url": "https://github.com/thepluginworks/tpw-ilungu-club-releases/releases/download/v2.13.0/tpw-ilungu-club-2.13.0.zip",
+  "version": "2.13.1",
+  "download_url": "https://github.com/thepluginworks/tpw-ilungu-club-releases/releases/download/v2.13.1/tpw-ilungu-club-2.13.1.zip",
   "homepage": "https://thepluginworks.com/ilungu-club/",
   "requires": "6.5",
   "requires_php": "8.3",
